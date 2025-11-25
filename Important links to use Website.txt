@@ -1,0 +1,9 @@
+To Access Producs tab Please use the following link-
+127.0.0.1:8000/products
+
+
+To Access admin tab Please use the following link-
+http://127.0.0.1:8000/admin/
+In case admin login required
+username-admin
+password-Zaneduke123@
